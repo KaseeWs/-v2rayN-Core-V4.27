@@ -1,0 +1,4 @@
+2022-05-21 19:38:32,820 [1] INFO  Log1 - v2rayN start up | v2rayN - V4.27 - 2021-12-26 | C:\Users\Administrator\Desktop\新建文件夹\v2rayN-Core\v2rayN.exe
+2022-05-21 19:38:33,444 [3] INFO  Log1 - UpdateTaskRun
+2022-05-21 19:38:58,635 [1] INFO  Log1 - v2rayN start up | v2rayN - V4.27 - 2021-12-26 | C:\Users\Administrator\Desktop\新建文件夹\v2rayN-Core\v2rayN.exe
+2022-05-21 19:38:59,241 [3] INFO  Log1 - UpdateTaskRun
